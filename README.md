@@ -28,3 +28,8 @@ Just make sure about some things
 1. Check the vednor dir in rom_device.mk file
 2. Add .mk extension in MakeFile name
 3. Give credits wherever used
+
+------------
+```bash
+Use/share Scripts with credits
+```
